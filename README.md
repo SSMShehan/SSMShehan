@@ -12,8 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=ssmshehan&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-7C3AED?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7C3AED?style=for-the-badge" alt="Focus" />
-  <!-- WakaTime Badge (Requires active account) -->
-  <img src="https://wakatime.com/badge/user/ssmshehan.svg?style=for-the-badge&color=7C3AED" alt="WakaTime" />
+  <!-- WakaTime Badge (Requires active account & setup) -->
+  <!-- <img src="https://wakatime.com/badge/user/ssmshehan.svg?style=for-the-badge&color=7C3AED" alt="WakaTime" /> -->
 </p>
 
 <br>
@@ -156,26 +156,44 @@
 
 <h2 align="center">📈 Skills Progress</h2>
 
-<!-- Using code block for maximum compatibility -->
-```text
-Frontend Development
-══════════════════════════════════════════════════════════
-React/Next.js      ████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  90%
-HTML5/CSS3         ███████████████▓▓▓▓▓▓▓▓▓▓▓▓▓  95%
-JavaScript/TS      █████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  85%
-
-Backend Development
-══════════════════════════════════════════════════════════
-Node.js/Express    █████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  87%
-Spring Boot        ████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  80%
-Python             █████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  85%
-
-Databases & Cloud
-══════════════════════════════════════════════════════════
-MongoDB            ██████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓  90%
-MySQL              ████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  82%
-Google Cloud       ████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  70%
-```
+<table align="center">
+  <tr>
+    <td align="left" width="300"><b>Stack</b></td>
+    <td align="left" width="300"><b>Proficiency</b></td>
+  </tr>
+  <tr>
+    <td>React / Next.js</td>
+    <td><img src="https://geps.dev/progress/90?color=61DAFB&dangerColor=7C3AED" alt="90%" /></td>
+  </tr>
+  <tr>
+    <td>HTML5 / CSS3</td>
+    <td><img src="https://geps.dev/progress/95?color=E34F26&dangerColor=7C3AED" alt="95%" /></td>
+  </tr>
+  <tr>
+    <td>JavaScript / TypeScript</td>
+    <td><img src="https://geps.dev/progress/85?color=F7DF1E&dangerColor=7C3AED" alt="85%" /></td>
+  </tr>
+  <tr>
+    <td>Node.js / Express</td>
+    <td><img src="https://geps.dev/progress/87?color=339933&dangerColor=7C3AED" alt="87%" /></td>
+  </tr>
+  <tr>
+    <td>Spring Boot</td>
+    <td><img src="https://geps.dev/progress/80?color=6DB33F&dangerColor=7C3AED" alt="80%" /></td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td><img src="https://geps.dev/progress/85?color=3776AB&dangerColor=7C3AED" alt="85%" /></td>
+  </tr>
+  <tr>
+    <td>MongoDB / MySQL</td>
+    <td><img src="https://geps.dev/progress/90?color=4EA94B&dangerColor=7C3AED" alt="90%" /></td>
+  </tr>
+  <tr>
+    <td>Google Cloud</td>
+    <td><img src="https://geps.dev/progress/70?color=4285F4&dangerColor=7C3AED" alt="70%" /></td>
+  </tr>
+</table>
 
 </div>
 
