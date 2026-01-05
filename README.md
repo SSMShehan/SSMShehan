@@ -133,7 +133,7 @@
 </p>
 
 <h3 align="center">📈 Contribution Graph</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SSMShehan&theme=react-dark&bg_color=0f172a&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Activity" alt="Contribution Graph" />
+<img src="https://ghchart.rshah.org/7C3AED/SSMShehan" alt="Contribution Graph" />
 
 </div>
 
