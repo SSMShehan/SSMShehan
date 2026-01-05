@@ -2,18 +2,18 @@
 
 <!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hello+World+👋;I'm+Shehan+Madushanka;Full+Stack+Developer;MERN+Stack+Specialist;From+Sri+Lanka+🇱🇰" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hello+World+👋;I'm+Shehan+Madushanka;Full+Stack+Developer;MERN+Stack+Specialist;From+Sri+Lanka+🇱🇰" alt="Typing SVG" />
 </a>
 
 <br><br>
 
 <!-- Profile Stats Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ssmshehan&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SSMShehan&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-7C3AED?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7C3AED?style=for-the-badge" alt="Focus" />
   <!-- WakaTime Badge (Requires active account & setup) -->
-  <!-- <img src="https://wakatime.com/badge/user/ssmshehan.svg?style=for-the-badge&color=7C3AED" alt="WakaTime" /> -->
+  <!-- <img src="https://wakatime.com/badge/user/SSMShehan.svg?style=for-the-badge&color=7C3AED" alt="WakaTime" /> -->
 </p>
 
 <br>
@@ -29,7 +29,7 @@
   <a href="mailto:shehanmadusanka775@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/ssmshehan" target="_blank">
+  <a href="https://github.com/SSMShehan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -126,26 +126,19 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssmshehan&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=7C3AED&icon_color=7C3AED&include_all_commits=true&count_private=true&custom_title=Shehan's+GitHub+Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SSMShehan&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=7C3AED&icon_color=7C3AED&include_all_commits=true&count_private=true&custom_title=Shehan's+GitHub+Stats" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssmshehan&layout=compact&theme=radical&hide_border=true&bg_color=0f172a&title_color=7C3AED&text_color=ffffff&langs_count=8&custom_title=Top+Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSMShehan&layout=compact&theme=radical&hide_border=true&bg_color=0f172a&title_color=7C3AED&text_color=ffffff&langs_count=8&custom_title=Top+Languages" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ssmshehan&theme=radical&hide_border=true&background=0f172a&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SSMShehan&theme=radical&hide_border=true&background=0f172a&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&dates=ffffff" alt="GitHub Streak" />
 </p>
 
 <h3 align="center">📈 Contribution Graph</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssmshehan&theme=react-dark&bg_color=0f172a&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Activity" alt="Contribution Graph" />
-
-<br><br>
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<a href="https://github-profile-trophy.vercel.app/?username=ssmshehan">
-  <img src="https://github-profile-trophy.vercel.app/?username=ssmshehan&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SSMShehan&theme=react-dark&bg_color=0f172a&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Activity" alt="Contribution Graph" />
 
 </div>
 
