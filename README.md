@@ -45,9 +45,9 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 Passion & Goals</h3>
-      <ul>
+    <td width="50%" valign="top" align="center">
+      <h3>🚀 Passion & Goals</h3>
+      <ul align="left">
         <li>Passionate undergraduate from <b>Sri Lanka</b> 🇱🇰</li>
         <li>Specializing in full-stack development</li>
         <li>Building scalable web & mobile applications</li>
@@ -56,9 +56,9 @@
         <li>Aiming to become a <b>Full Stack Architect</b></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 Current Focus</h3>
-      <ul>
+    <td width="50%" valign="top" align="center">
+      <h3>📚 Current Focus</h3>
+      <ul align="left">
         <li><b>MERN Stack</b> mastery with modern patterns</li>
         <li><b>Cloud Native</b> applications on GCP</li>
         <li><b>Microservices</b> with Spring Boot</li>
@@ -270,8 +270,11 @@ Google Cloud       ████████▓▓▓▓▓▓▓▓▓▓▓▓�
 <hr>
 
 <h3 align="center">🐍 Contribution Snake</h3>
-<!-- This needs the GitHub Action to work -->
-<img src="https://github.com/ssmshehan/ssmshehan/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<!-- 
+  NOTE: This image comes from the 'output' branch which is created by the snake.yml workflow. 
+  It won't show up until the workflow runs successfully at least once!
+-->
+<img src="https://raw.githubusercontent.com/SSMShehan/SSMShehan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 <br><br>
 
