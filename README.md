@@ -46,25 +46,27 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🚀 Passion & Goals</h3>
+      <h3>🚀 Professional Summary</h3>
+      <p align="left">
+        Third-year <b>IT Undergraduate</b> with strong skills in <b>Full-Stack Development</b>, <b>Cloud Computing</b>, and <b>Python</b>. 
+        I am a motivated team player seeking a professional internship to apply and grow my technical skills.
+      </p>
+      <br>
       <ul align="left">
-        <li>Passionate undergraduate from <b>Sri Lanka</b> 🇱🇰</li>
-        <li>Specializing in full-stack development</li>
-        <li>Building scalable web & mobile applications</li>
-        <li>Constantly exploring new frameworks & architectures</li>
-        <li>Open to internships & collaborative projects</li>
-        <li>Aiming to become a <b>Full Stack Architect</b></li>
+        <li>🎓 <b>Current Status:</b> 3rd Year IT Undergraduate</li>
+        <li>💻 <b>Key Skills:</b> Full Stack Dev, Cloud Computing, SQA</li>
+        <li>🌱 <b>Currently Learning:</b> DevOps & Advanced Cloud Patterns</li>
+        <li>☁️ <b>Familiar With:</b> Google Cloud, Cybersecurity Basics</li>
       </ul>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>📚 Current Focus</h3>
+      <h3>�️ Core Competencies</h3>
       <ul align="left">
-        <li><b>MERN Stack</b> mastery with modern patterns</li>
-        <li><b>Cloud Native</b> applications on GCP</li>
-        <li><b>Microservices</b> with Spring Boot</li>
-        <li><b>Cross-platform</b> mobile development</li>
-        <li><b>Real-time</b> applications with WebSockets</li>
-        <li><b>DevOps</b> & CI/CD pipelines</li>
+        <li><b>Languages:</b> Python, Java, C++, C, JavaScript, PHP</li>
+        <li><b>Frontend:</b> React.js, HTML5, CSS3, Figma, UI/UX</li>
+        <li><b>Backend:</b> Node.js, Express.js, REST APIs, OOP</li>
+        <li><b>Database:</b> MongoDB, MySQL</li>
+        <li><b>Soft Skills:</b> Leadership, Problem Solving, Analytical Skills</li>
       </ul>
     </td>
   </tr>
@@ -82,38 +84,27 @@
 <h3 align="center">🌐 Frontend Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/UI_UX-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="UI/UX" />
 </p>
 
-<h3 align="center">⚙️ Backend & Databases</h3>
+<h3 align="center">⚙️ Backend & Architecture</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+<h3 align="center">� Databases & Cloud</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-<h3 align="center">📱 Mobile & Cloud</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-<h3 align="center">🔧 Tools & Others</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 </div>
@@ -159,36 +150,24 @@
     <td align="left" width="300"><b>Proficiency</b></td>
   </tr>
   <tr>
-    <td>React / Next.js</td>
+    <td>React.js</td>
     <td><img src="https://geps.dev/progress/90?color=61DAFB&dangerColor=7C3AED" alt="90%" /></td>
   </tr>
   <tr>
-    <td>HTML5 / CSS3</td>
-    <td><img src="https://geps.dev/progress/95?color=E34F26&dangerColor=7C3AED" alt="95%" /></td>
-  </tr>
-  <tr>
-    <td>JavaScript / TypeScript</td>
-    <td><img src="https://geps.dev/progress/85?color=F7DF1E&dangerColor=7C3AED" alt="85%" /></td>
+    <td>Java / Python / C++</td>
+    <td><img src="https://geps.dev/progress/85?color=3776AB&dangerColor=7C3AED" alt="85%" /></td>
   </tr>
   <tr>
     <td>Node.js / Express</td>
     <td><img src="https://geps.dev/progress/87?color=339933&dangerColor=7C3AED" alt="87%" /></td>
   </tr>
   <tr>
-    <td>Spring Boot</td>
-    <td><img src="https://geps.dev/progress/80?color=6DB33F&dangerColor=7C3AED" alt="80%" /></td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td><img src="https://geps.dev/progress/85?color=3776AB&dangerColor=7C3AED" alt="85%" /></td>
-  </tr>
-  <tr>
-    <td>MongoDB / MySQL</td>
+    <td>MERN Stack</td>
     <td><img src="https://geps.dev/progress/90?color=4EA94B&dangerColor=7C3AED" alt="90%" /></td>
   </tr>
   <tr>
-    <td>Google Cloud</td>
-    <td><img src="https://geps.dev/progress/70?color=4285F4&dangerColor=7C3AED" alt="70%" /></td>
+    <td>SQL / MongoDB</td>
+    <td><img src="https://geps.dev/progress/90?color=4479A1&dangerColor=7C3AED" alt="90%" /></td>
   </tr>
 </table>
 
@@ -196,35 +175,55 @@
 
 <br><br>
 
-<!-- Current Projects Section -->
+<!-- Projects Section -->
 <div align="center">
 
-<h2 align="center">🚀 Current Projects & Learning</h2>
+<h2 align="center">🚀 Key Projects</h2>
 
-<table>
+<table align="center" width="95%">
   <tr>
-    <th align="center">Status</th>
-    <th align="center">Technology</th>
-    <th align="center">Project Type</th>
-    <th align="center">Focus Area</th>
+    <th width="30%">Project</th>
+    <th width="50%">Description</th>
+    <th width="20%">Tech Stack</th>
   </tr>
   <tr>
-    <td align="center">🔥 Active</td>
-    <td align="center">MERN Stack</td>
-    <td align="center">E-commerce Platform</td>
-    <td align="center">Full Stack Development</td>
+    <td align="center">
+      <b>Tourism Management System</b><br>
+      <i>(2025)</i>
+    </td>
+    <td>
+      Full-stack platform for booking tours, hotels, guides, and vehicles. Features custom itineraries, secure JWT auth, and Stripe payment integration.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MERN-Stack-black?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Stripe-Payment-blue?style=flat-square" />
+    </td>
   </tr>
   <tr>
-    <td align="center">🚧 Building</td>
-    <td align="center">Next.js 14</td>
-    <td align="center">Portfolio Website</td>
-    <td align="center">Server Components</td>
+    <td align="center">
+      <b>Online Grocery System</b><br>
+      <i>(2025)</i>
+    </td>
+    <td>
+      Web app for browsing products, managing carts, and placing orders. Uses MVC architecture with real-time inventory checks.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-MVC-red?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/MySQL-DB-blue?style=flat-square" />
+    </td>
   </tr>
   <tr>
-    <td align="center">📚 Learning</td>
-    <td align="center">Spring Boot</td>
-    <td align="center">Microservices</td>
-    <td align="center">Backend Architecture</td>
+    <td align="center">
+      <b>Airline Ticket Booking</b><br>
+      <i>(2024)</i>
+    </td>
+    <td>
+      Flight booking system enabling users to search flights, check availability, and manage reservations efficiently.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PHP-Backend-purple?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/MySQL-DB-blue?style=flat-square" />
+    </td>
   </tr>
 </table>
 
