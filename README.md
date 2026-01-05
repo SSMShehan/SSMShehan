@@ -48,7 +48,7 @@
     <td width="50%" valign="top" align="center">
       <h3>🚀 Professional Summary</h3>
       <p align="left">
-        Third-year <b>IT Undergraduate</b> with strong skills in <b>Full-Stack Development</b>, <b>Cloud Computing</b>, and <b>Python</b>. 
+        Third-year <b>IT Undergraduate</b> with strong skills in <b>Full-Stack Development</b>, and <b>Cloud Computing</b>. 
         I am a motivated team player seeking a professional internship to apply and grow my technical skills.
       </p>
       <br>
@@ -66,7 +66,6 @@
         <li><b>Frontend:</b> React.js, HTML5, CSS3, Figma, UI/UX</li>
         <li><b>Backend:</b> Node.js, Express.js, REST APIs, OOP</li>
         <li><b>Database:</b> MongoDB, MySQL</li>
-        <li><b>Soft Skills:</b> Leadership, Problem Solving, Analytical Skills</li>
       </ul>
     </td>
   </tr>
