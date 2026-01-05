@@ -126,7 +126,8 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSMShehan&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=7C3AED&icon_color=7C3AED&include_all_commits=true&count_private=true&custom_title=Shehan's+GitHub+Stats" alt="GitHub Stats" />
+  <!-- Removed 'count_private' to ensure image loads without auth -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SSMShehan&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=7C3AED&icon_color=7C3AED&custom_title=Shehan's+GitHub+Stats" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -286,6 +287,10 @@
   It won't show up until the workflow runs successfully at least once!
 -->
 <img src="https://raw.githubusercontent.com/SSMShehan/SSMShehan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<br>
+<i>(Animation will appear here automatically after the GitHub Action runs)</i>
+
+<br><br>
 
 <br><br>
 
