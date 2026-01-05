@@ -226,38 +226,111 @@
 
 
 
-<!-- Skills Visualization -->
+<!-- Daily Dev Card -->
 <div align="center">
   
-  ## 📈 Skills Progress
+  ## 📝 Daily Development
   
-  ```text
-  Frontend Development
-  ═══════════════════════════════════════
-  React / Next.js    ████████████ 90%
-  HTML/CSS           ████████████ 95%
-  JavaScript/TypeScript ██████████ 85%
+  <!-- Random Dev Quote -->
+  <div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Dev Quote" />
+  </div>
   
-  Backend Development
-  ═══════════════════════════════════════
-  Node.js            ████████████ 88%
-  Spring Boot        ██████████   80%
-  Python             ███████████  85%
-  
-  Databases
-  ═══════════════════════════════════════
-  MongoDB            ████████████ 90%
-  MySQL              ██████████   82%
-  
-  Mobile Development
-  ═══════════════════════════════════════
-  React Native       ██████████   80%
-  Kotlin             █████████    75%
-  
-  Tools & Others
-  ═══════════════════════════════════════
-  Git                ████████████ 92%
-  Google Cloud       ████████     70%
-  Docker             ███████      65%
+</div>
 
- 
+<br>
+
+<!-- Connect Section -->
+<div align="center">
+  
+  ## 📫 Let's Connect & Collaborate!
+  
+  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision</p>
+  
+  <a href="https://linkedin.com/in/shehan-madusanka-a99637235" target="_blank">
+    <img src="https://img.shields.io/badge/Message%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Message" />
+  </a>
+  <a href="mailto:shehanmadusanka775@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+  </a>
+  <a href="https://ssmshehan.github.io/My-Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Portfolio" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Fun Stats -->
+  <details>
+    <summary>📊 <b>Click for Fun Stats</b></summary>
+    <br>
+    <table>
+      <tr>
+        <td><b>🎯 Goal:</b></td>
+        <td>Become a Full Stack Architect</td>
+      </tr>
+      <tr>
+        <td><b>☕ Coffee:</b></td>
+        <td>Essential for coding marathons</td>
+      </tr>
+      <tr>
+        <td><b>💡 Philosophy:</b></td>
+        <td>Learn → Build → Iterate → Repeat</td>
+      </tr>
+      <tr>
+        <td><b>🚀 Next Skill:</b></td>
+        <td>Kubernetes & Advanced Cloud Patterns</td>
+      </tr>
+    </table>
+  </details>
+  
+</div>
+
+<br>
+
+<!-- Footer -->
+<div align="center">
+  
+  ---
+  
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssmshehan/ssmshehan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssmshehan/ssmshehan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ssmshehan/ssmshehan/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+  <br>
+  
+  <!-- Last Updated -->
+  <div align="center">
+    <img src="https://img.shields.io/badge/Last%20Updated-%F0%9F%93%85%20Dynamic-blue?style=for-the-badge" alt="Last Updated" />
+    <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-7C3AED?style=for-the-badge" alt="Made with Love" />
+  </div>
+  
+  <p> 
+    <i>Thank you for visiting my profile! Have a great day! 😊</i>
+  </p>
+  
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=fadeIn&fontAlign=70" />
+  </p>
+  
+</div>
+
+<!-- Add some CSS for animations -->
+<style>
+  .social-links img {
+    transition: transform 0.3s ease;
+  }
+  .social-links img:hover {
+    transform: translateY(-5px);
+  }
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  div {
+    animation: fadeIn 1s ease-in;
+  }
+</style>
+
