@@ -138,7 +138,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SSMShehan&theme=radical&hide_border=true&background=0f172a&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/SSMShehan/SSMShehan/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 <h3 align="center">📈 Contribution Graph</h3>
