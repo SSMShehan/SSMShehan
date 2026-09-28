@@ -187,6 +187,45 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/SSMShehan/PlantDisease-Detector" style="text-decoration:none; color:inherit;"><b>PlantDisease-Detector</b></a><br>
+      <i>(2026)</i>
+    </td>
+    <td>
+      A Flutter mobile app for Sri Lankan farmers to identify crop diseases offline using AI. Features photo-based diagnosis, Sinhala localization, and weather updates.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Dart-AI/ML-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SSMShehan/Distributed-Hardware-Telemetry-Crash-Analysis-Platform" style="text-decoration:none; color:inherit;"><b>Hardware Telemetry Platform</b></a><br>
+      <i>(2026)</i>
+    </td>
+    <td>
+      A distributed platform designed for collecting hardware telemetry data and diagnosing crashes efficiently.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-Platform-007396?style=flat-square&logo=java&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Distributed-Systems-blue?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SSMShehan/School-Management-System" style="text-decoration:none; color:inherit;"><b>School Management System</b></a><br>
+      <i>(2026)</i>
+    </td>
+    <td>
+      Multi-branch School Management System built to handle administrative tasks, student records, and branch operations.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <b>Tourism Management System</b><br>
       <i>(2025)</i>
     </td>
@@ -196,32 +235,6 @@
     <td align="center">
       <img src="https://img.shields.io/badge/MERN-Stack-black?style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Stripe-Payment-blue?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Online Grocery System</b><br>
-      <i>(2025)</i>
-    </td>
-    <td>
-      Web app for browsing products, managing carts, and placing orders. Uses MVC architecture with real-time inventory checks.
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java-MVC-red?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/MySQL-DB-blue?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Airline Ticket Booking</b><br>
-      <i>(2024)</i>
-    </td>
-    <td>
-      Flight booking system enabling users to search flights, check availability, and manage reservations efficiently.
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PHP-Backend-purple?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/MySQL-DB-blue?style=flat-square" />
     </td>
   </tr>
 </table>
