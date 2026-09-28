@@ -62,8 +62,8 @@
     <td width="50%" valign="top" align="center">
       <h3>�️ Core Competencies</h3>
       <ul align="left">
-        <li><b>Languages:</b> Python, Java, C++, C, JavaScript, PHP</li>
-        <li><b>Frontend:</b> React.js, HTML5, CSS3, Figma, UI/UX</li>
+        <li><b>Languages:</b> TypeScript, JavaScript, Dart, Java, Python, C++</li>
+        <li><b>Frontend & Mobile:</b> React.js, Flutter, HTML5, CSS3, Figma, UI/UX</li>
         <li><b>Backend:</b> Node.js, Express.js, REST APIs, OOP</li>
         <li><b>Database:</b> MongoDB, MySQL</li>
       </ul>
@@ -80,23 +80,23 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">🌐 Frontend Development</h3>
+<h3 align="center">🌐 Frontend & Mobile Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/UI_UX-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="UI/UX" />
 </p>
 
 <h3 align="center">⚙️ Backend & Architecture</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 <h3 align="center">� Databases & Cloud</h3>
@@ -149,20 +149,20 @@
     <td align="left" width="300"><b>Proficiency</b></td>
   </tr>
   <tr>
-    <td>React.js</td>
-    <td><img src="https://geps.dev/progress/90?color=61DAFB&dangerColor=7C3AED" alt="90%" /></td>
+    <td>React.js / MERN Stack</td>
+    <td><img src="https://geps.dev/progress/95?color=61DAFB&dangerColor=7C3AED" alt="95%" /></td>
+  </tr>
+  <tr>
+    <td>TypeScript / Node.js</td>
+    <td><img src="https://geps.dev/progress/90?color=007ACC&dangerColor=7C3AED" alt="90%" /></td>
+  </tr>
+  <tr>
+    <td>Flutter / Dart</td>
+    <td><img src="https://geps.dev/progress/85?color=02569B&dangerColor=7C3AED" alt="85%" /></td>
   </tr>
   <tr>
     <td>Java / Python / C++</td>
     <td><img src="https://geps.dev/progress/85?color=3776AB&dangerColor=7C3AED" alt="85%" /></td>
-  </tr>
-  <tr>
-    <td>Node.js / Express</td>
-    <td><img src="https://geps.dev/progress/87?color=339933&dangerColor=7C3AED" alt="87%" /></td>
-  </tr>
-  <tr>
-    <td>MERN Stack</td>
-    <td><img src="https://geps.dev/progress/90?color=4EA94B&dangerColor=7C3AED" alt="90%" /></td>
   </tr>
   <tr>
     <td>SQL / MongoDB</td>
