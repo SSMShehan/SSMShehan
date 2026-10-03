@@ -65,7 +65,7 @@
         <li><b>Languages:</b> TypeScript, JavaScript, Dart, Java, Python, C++</li>
         <li><b>Frontend & Mobile:</b> React.js, Flutter, HTML5, CSS3, Figma, UI/UX</li>
         <li><b>Backend:</b> Node.js, Express.js, REST APIs, OOP</li>
-        <li><b>Database:</b> MongoDB, MySQL</li>
+        <li><b>Database:</b> MongoDB, MySQL, PostgreSQL</li>
       </ul>
     </td>
   </tr>
